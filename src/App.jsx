@@ -72,7 +72,7 @@ function App() {
 
                     {
                       id: 7,
-                      image:"https://www.eltiempo.com/files/article_main_1200/uploads/2021/11/11/618da2f0f2822.jpeg",
+                      image:"https://placedog.net/1000/563?id=176",
                       title:"Chucho",
                       raza: "Pug",
                       colorButton:"success",
@@ -82,11 +82,11 @@ function App() {
 
                         {
                           id: 8,
-                          image:"https://tucachorrotienda.com/wp-content/uploads/2023/09/81.jpg",
+                          image:"https://placedog.net/1000/563?id=31",
                           title:"Leon",
                           raza: "Golden Retriever",
-                          colorButton:"success",
-                          textButton:"Adoptar",
+                          colorButton:"warning",
+                          textButton:"Reservado",
                           description:"Transforma tu vida con la amistad fiel y el cariño infinito de un Golden Retriever. ¡Adopta y descubre el regalo de tener a un amigo dorado! 🌈🐶"
                             },
             
